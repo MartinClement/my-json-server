@@ -7,5 +7,31 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "employes": [
+    {
+      "id": 1,
+      "nickname": "Lyrikz",
+      "profile": "developer",
+      "specification": "back"
+    },
+    {
+      "id": 2,
+      "nickname": "Vanglenn",
+      "profile": "developer",
+      "specification": "front"
+    },
+    {
+      "id": 3,
+      "nickname": "Einz",
+      "profile": "developer",
+      "specification": "back"
+    },
+    {
+      "id": 4,
+      "nickname": "Atin",
+      "profile": "developer",
+      "specification": "front"
+    }
+  ]
 }
