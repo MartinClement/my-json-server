@@ -3,26 +3,26 @@
     {
       "id": 1,
       "nickname": "Lyrikz",
-      "profile": "developer",
-      "specification": "back"
+      "team": "engineering",
+      "profile": "back developper"
     },
     {
       "id": 2,
       "nickname": "Vanglenn",
-      "profile": "developer",
-      "specification": "front"
+      "team": "engineering",
+      "profile": "front developper"
     },
     {
       "id": 3,
       "nickname": "Einz",
-      "profile": "developer",
-      "specification": "back"
+      "team": "engineering",
+      "profile": "back developper"
     },
     {
       "id": 4,
       "nickname": "Atin",
-      "profile": "developer",
-      "specification": "front"
+      "team": "engineering",
+      "profile": "front developper"
     }
   ]
 }
