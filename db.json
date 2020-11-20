@@ -4,25 +4,64 @@
       "id": 1,
       "nickname": "Lyrikz",
       "team": "engineering",
-      "profile": "back developper"
+      "profile": "developper"
     },
     {
       "id": 2,
       "nickname": "Vanglenn",
       "team": "engineering",
-      "profile": "front developper"
+      "profile": "developper"
     },
     {
       "id": 3,
       "nickname": "Einz",
       "team": "engineering",
-      "profile": "back developper"
+      "profile": "developper"
     },
     {
       "id": 4,
       "nickname": "Atin",
       "team": "engineering",
-      "profile": "front developper"
+      "profile": "developper"
+    }
+  ],
+  "profiles": [
+    {
+      "id": 1,
+      "employe_id": 1,
+      "first_name":"Nicolas",
+      "last_name": "Carquin",
+      "age": 26,
+      "tags": "Rust <3"
+    },
+    {
+      "id": 2,
+      "employe_id": 2,
+      "first_name":"Yann",
+      "last_name": "Isabel",
+      "age": 29,
+      "tags": "Design System"
+    },
+    {
+      "id": 3,
+      "employe_id": 3,
+      "first_name":"Enzo",
+      "last_name": "Gain",
+      "age": 28,
+      "tags": "Cofee !"
+    },
+    {
+      "id": 4,
+      "employe_id": 4,
+      "first_name":"Clément",
+      "last_name": "Martin",
+      "age": 25,
+      "tags": "Trumpet"
+    }
+  ],
+  "commits" :[
+    {
+      "id": ""
     }
   ]
 }
