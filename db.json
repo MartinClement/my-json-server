@@ -3,26 +3,30 @@
     {
       "id": 1,
       "nickname": "Lyrikz",
+      "avatar": "https://avatars.dicebear.com/api/male/lyrikz.svg",
       "team": "engineering",
-      "profile": "developper"
+      "occupation": "back developper"
     },
     {
       "id": 2,
       "nickname": "Vanglenn",
+      "avatar": "https://avatars.dicebear.com/api/male/vanglenn.svg",
       "team": "engineering",
-      "profile": "developper"
+      "occupation": "front developper"
     },
     {
       "id": 3,
       "nickname": "Einz",
+      "avatar": "https://avatars.dicebear.com/api/male/einz.svg",
       "team": "engineering",
-      "profile": "developper"
+      "occupation": "back developper"
     },
     {
       "id": 4,
       "nickname": "Atin",
+      "avatar": "https://avatars.dicebear.com/api/male/atin.svg",
       "team": "engineering",
-      "profile": "developper"
+      "occupation": "front developper"
     }
   ],
   "profiles": [
@@ -61,7 +65,10 @@
   ],
   "commits" :[
     {
-      "id": ""
+      "id": "",
+      "project": "",
+      "date": "", // ISO ? DD/MM/YYYYThh:mm:ss:msZ
+      "message": "remove console.log"
     }
   ]
 }
